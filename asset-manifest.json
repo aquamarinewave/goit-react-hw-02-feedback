@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/aquamarinewave/goit-react-hw-02-feedback.git/static/css/main.7acaea2f.css",
-    "main.js": "/aquamarinewave/goit-react-hw-02-feedback.git/static/js/main.21d813e1.js",
+    "main.css": "/aquamarinewave/goit-react-hw-02-feedback.git/static/css/main.b8f72a62.css",
+    "main.js": "/aquamarinewave/goit-react-hw-02-feedback.git/static/js/main.36715389.js",
     "index.html": "/aquamarinewave/goit-react-hw-02-feedback.git/index.html",
-    "main.7acaea2f.css.map": "/aquamarinewave/goit-react-hw-02-feedback.git/static/css/main.7acaea2f.css.map",
-    "main.21d813e1.js.map": "/aquamarinewave/goit-react-hw-02-feedback.git/static/js/main.21d813e1.js.map"
+    "main.b8f72a62.css.map": "/aquamarinewave/goit-react-hw-02-feedback.git/static/css/main.b8f72a62.css.map",
+    "main.36715389.js.map": "/aquamarinewave/goit-react-hw-02-feedback.git/static/js/main.36715389.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.21d813e1.js"
+    "static/css/main.b8f72a62.css",
+    "static/js/main.36715389.js"
   ]
 }
